@@ -20,6 +20,7 @@ So, let’s see what all we got fixed & What’s new -:
 - Added our new updater app (for official devices)
 - Updated palladium community app 
 - Updated atomichub  
+- Updated atomichub 
 - Updated About phone UI (for official devices)
 - Added smart cutoff
 - Added reset battery stats option
